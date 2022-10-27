@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 def factorial(n):
     end = 1
     for i in range(1, n + 1):
